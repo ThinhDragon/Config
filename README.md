@@ -1,2 +1,2 @@
-# hostsVN
-Hosts block ads of Vietnamese
+# Config, Domain for AdBlock
+Hosts Block Ads of Vietnamese
